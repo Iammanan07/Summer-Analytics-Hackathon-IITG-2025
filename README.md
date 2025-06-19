@@ -1,1 +1,1 @@
-# Summer-Analytics-Hackathon-IITG-2025
+This Clean Repo fully dedicated to Hackathon competition by IITG 2025, On Classifiaction of NVDI Land. It includes the notebook and output in a submission.csv(1), Please take a look and star my repository Thanks.
